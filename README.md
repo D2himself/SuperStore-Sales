@@ -80,7 +80,7 @@ The dataset used in this project is the ["train.csv"](https://github.com/D2himse
 - Line graphs for sales trends over time.
 - Choropleth map for geographical sales distribution.
 - Treemap and Sunburst charts for hierarchical sales data visualization.
-![Sales per category](https://github.com/D2himself/SuperStore-Sales/blob/main/results/sales_per_category.png)
+![Sales per category](https://github.com/D2himself/SuperStore-Sales/blob/main/results/sales_per_category_shipping.png)
 ## Recommendations
 
 - Target loyal customers to improve retention and increase revenue.
