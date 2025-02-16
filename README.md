@@ -27,7 +27,7 @@ This includes:
 
 ## Data Source
 
-The dataset used in this project is the "train.csv" file and it consists of records of purchases made by different consumers
+The dataset used in this project is the ["train.csv"](https://github.com/D2himself/SuperStore-Sales/tree/main/data) file and it consists of records of purchases made by different consumers
 
 **Data Preprocessing**
 
@@ -40,47 +40,47 @@ The dataset used in this project is the "train.csv" file and it consists of reco
 
 ### **Customer Segmentation**
 
-- Identified different customer segments (e.g., consumers, corporates, home office).
-- Determined the proportion of each segment and their contribution to sales.
+- Identified different customer segments (e.g., consumers, corporates, home office).![Type of customers](https://github.com/D2himself/SuperStore-Sales/blob/main/results/Type%20of%20customers.png)
+- Determined the proportion of each segment and their contribution to sales.![customer by sales](https://github.com/D2himself/SuperStore-Sales/blob/main/results/customer%20by%20sales.png)
 - Analyzed customer order frequency and spending habits to identify loyal customers and top spenders.
 
 ### **Sales Forecasting**
 
-- Aggregate the sales data for easier forecasting.
-- Performed time series analysis to identify trends and patterns.
-- Utilized the SARIMA model to predict sales and gain an estimate of future projections.
+- Aggregate the sales data for easier forecasting.![monthly sales and anomalies](https://github.com/D2himself/SuperStore-Sales/blob/main/results/monthly_sales_anomalies%20(1).png)
+- Performed time series analysis to identify trends and patterns.![decompose](https://github.com/D2himself/SuperStore-Sales/blob/main/results/decompose%20(1).png)
+- Utilized the SARIMA model to predict sales and gain an estimate of future projections.![forecast](https://github.com/D2himself/SuperStore-Sales/blob/main/results/forecast%20(1).png)
 
 ### **Geographical Analysis**
 
-- Mapped the sales to the states to see how much every state generated
-- Created horizontal bar chart for the distribution of sales by state.
+- Mapped the sales to the states to see how much every state generated![Map](https://github.com/D2himself/SuperStore-Sales/blob/main/results/sales_per_state.png)
+- Created horizontal bar chart for the distribution of sales by state.![sales per state](https://github.com/D2himself/SuperStore-Sales/blob/main/results/sales_per_state%20(1).png)
 
 ### **Product Analysis**
 
-- Explored popular categories and sub-categories.
-- Identified the most and least performing categories and sub-categories by sales.
+- Explored popular categories and sub-categories.![sale per category](https://github.com/D2himself/SuperStore-Sales/blob/main/results/sales_per_category.png)
+- Identified the most and least performing categories and sub-categories by sales.![Sub category sales](https://github.com/D2himself/SuperStore-Sales/blob/main/results/subcategory_sales.png)
 
 ### **Time Analysis (Trends)**
 
-- Visualize sales trends over years and periods (Quarterly and Monthly)
+- Visualize sales trends over years and periods (Quarterly and Monthly)![trend](https://github.com/D2himself/SuperStore-Sales/blob/main/results/yearly%20sales%20line%20(1).png)
 
 ### **Mapping**
 
 - Mapped the sales to the states to see how much every state generated
 
-## Results
+## [Results](https://github.com/D2himself/SuperStore-Sales/tree/main/results)
 
 - The analysis provided valuable insights to help the business understand its customers and sales patterns.
 - Identified potential areas for improvement in sales strategy, customer relationship management, and operations.
 
-## Key Visualizations
+## [Key Visualizations](https://github.com/D2himself/SuperStore-Sales/tree/main/results)
 
 - Pie chart for customer segments and sales contributions.
 - Bar chart for product performance.
 - Line graphs for sales trends over time.
 - Choropleth map for geographical sales distribution.
 - Treemap and Sunburst charts for hierarchical sales data visualization.
-
+![Sales per category](https://github.com/D2himself/SuperStore-Sales/blob/main/results/sales_per_category.png)
 ## Recommendations
 
 - Target loyal customers to improve retention and increase revenue.
